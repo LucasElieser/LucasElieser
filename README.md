@@ -2,10 +2,10 @@
 
 **`Welcome`**
 
-🎓 Currently pursuing a degree in Systems Analysis and Development. 
-💻 I'm focused on learning backend development and building some projects 
+🎓 Currently pursuing a degree in Systems Analysis and Development.  
+💻 I'm focused on learning backend development and building some projects  
 📚 Always seeking knowledge and continuous improvement
-   
+
 From Brazil.
 
 
