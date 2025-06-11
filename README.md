@@ -69,7 +69,7 @@ From Brazil.
     <td>
       <img 
         alt="GitHub Top Languages" 
-        height="200" 
+        height="150" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasElieser&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
       />
     </td>
