@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Eliéser
 
-**`Welcome`**
+**`Welcome abord`**
 
 🎓 Currently pursuing a degree in Systems Analysis and Development.  
 💻 I'm focused on learning backend development and building some projects  
