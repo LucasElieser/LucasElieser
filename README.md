@@ -57,17 +57,21 @@ From Brazil.
 
 ### 📊 Statistics
 
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 20px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasElieser&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
-
-  <img 
-    alt="GitHub Top Languages" 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasElieser&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=LucasElieser&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="GitHub Top Languages" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasElieser&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
