@@ -55,6 +55,17 @@ From Brazil.
 <br/>
 <br/>
 
+<!-- GIF animado -->
+<img 
+    alt="Coding GIF" 
+    title="Coding in progress" 
+    width="200px" 
+    src="https://64.media.tumblr.com/b09dda92d9abc1b9f60ac9e13432f533/b9c5151b1cc9e967-d1/s500x750/dd5942be70522e9713e45f35aea85829b0395963.gif" 
+/>
+
+<br/>
+<br/>
+
 ### 📊 Statistics
 
 <table>
