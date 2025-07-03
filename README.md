@@ -5,7 +5,7 @@
 🎓 Currently pursuing a degree in Systems Analysis and Development.  
 💻 I'm focused on learning backend development and building some projects  
 📫 You can reach me via email: lucaseliesersc@gmail.com  
-📚 Always seeking knowledge and continuous improvement
+
 
 From Brazil.
 
